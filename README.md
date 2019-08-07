@@ -16,4 +16,4 @@ Shiny app to generate _Code 128_ type barcodes for labels
 
 #### Customization required:
 - Update run.bat with the location of chrome.exe file.
-- Install _shiny_ and _baRcodeR_ packages in R-portable.
+- Install _shiny_ and _baRcodeR_ packages inside R-portable.

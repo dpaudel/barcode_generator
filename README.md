@@ -1,5 +1,5 @@
 # barcode_generator
-Shiny app to generate Code 128 barcodes for labels
+Shiny app to generate _Code 128_ type barcodes for labels
 
 #### Install the following in the directory where the shiny folder is located
 1. Install (GoogleChromePortable)[https://portableapps.com/apps/internet/google_chrome_portable]

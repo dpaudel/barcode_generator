@@ -20,3 +20,15 @@ Shiny app to generate _Code 128_ type barcodes for labels
 
 #### To run:
 Double click _run.bat_
+
+
+#### Input:
+The input file needs to be a _.csv_ file with labels on the first column. For eg. 
+```
+Labels
+AVT18BLK01TRT01P01
+AVT18BLK01TRT02P02
+AVT18BLK01TRT03P03
+AVT18BLK02TRT01P01
+AVT18BLK02TRT02P02
+```

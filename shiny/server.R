@@ -39,6 +39,7 @@ shinyServer(function(input, output, session){
                                            x_space = 0
                                            y_space = 0.5
                                            #Labels<-read.csv(file.choose("Select .csv file that contains labels"), header = TRUE, stringsAsFactors = F)
+                                           # Make readable directly with excel file
                                            Labels <-     df <- read.csv(input$file1$datapath,
                                                                         header = input$header,
                                                                         sep = input$sep,
